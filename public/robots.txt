@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wavexpress-6f4b694c.zappy5.app/sitemap.xml
