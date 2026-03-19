@@ -1,70 +1,79 @@
-# wavexpress מתנות וגאדג'טים — Generative Engine Optimization Map
-
-> מתנות מקוריות גאדג'טים מדליקים לכל מטרה ישירות מהיבואן ובמחיר שלא יאומן. אם אתם מבקשים לחפש רעיונות למתנות מקוריות לגבר ולאישה ולמצוא מתנה לחבר ולחברה. הצטרפו למועדות הלקוחות שלנו ותתחילו לקבל הנחות מדהימות לרכישת מתנות והפתעות.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://wavexpress-6f4b694c.zappy5.app
+https://example.com
 גלו מתנות קטנות ומקוריות שמביאות שמחה אמיתית. מגוון גאדג'טים והפתעות מיוחדות לכל אירוע — wavexpress מתנות וגאדג'טים
 
-### מוצרים
-https://wavexpress-6f4b694c.zappy5.app/products
-גלו את המגוון המלא של מתנות קטנות, גאדג'טים מדליקים ומתנות מקוריות לאירועים. קטלוג מוצרים עם מחירים מיוחדים — wavexpress
+### Products
+https://example.com/products
+המוצרים שלנו - wavexpress מתנות וגאדג'טים
 
 ### שירותים
-https://wavexpress-6f4b694c.zappy5.app/services
+https://example.com/services
 שירותי הדפסה על מוצרים למיתוג עסקי, אריזות מתנה מהודרות והתאמה אישית. פתרונות מקצועיים לעסקים ולקוחות פרטיים — wavexpress
 
 ### אודות
-https://wavexpress-6f4b694c.zappy5.app/about
+https://example.com/about
 הכירו את wavexpress - יבואן ישיר של מתנות קטנות וגאדג'טים מקוריים. הסיפור שלנו, הערכים שלנו והמחויבות למצוינות
 
 ### צור קשר
-https://wavexpress-6f4b694c.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם wavexpress לייעוץ, הצעת מחיר או כל שאלה. אנחנו כאן כדי לעזור לכם למצוא את המתנות המושלמות
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - wavexpress מתנות וגאדג'טים
+
+### Category
+https://example.com/category/:slug
+מוצרים - wavexpress מתנות וגאדג'טים
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://wavexpress-6f4b694c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://wavexpress-6f4b694c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://wavexpress-6f4b694c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About wavexpress מתנות וגאדג'טים
-מתנות מקוריות גאדג'טים מדליקים לכל מטרה ישירות מהיבואן ובמחיר שלא יאומן. אם אתם מבקשים לחפש רעיונות למתנות מקוריות לגבר ולאישה ולמצוא מתנה לחבר ולחברה. הצטרפו למועדות הלקוחות שלנו ותתחילו לקבל הנחות מדהימות לרכישת מתנות והפתעות.
-
-## Services/Products
-- מתנות מקוריות
-- גאדג'טים
-- מתנות לאירועים
-- מתנות קטנות
-- מתנות לחג
-- הפתעות
-- הדפסה על מוצרים
-
-## Target Audience
-לקוחות פרטיים, עסקים לצורכי מיתוג, אירועים חברתיים ומשפחתיים
-
-## Industry
-מסחר אלקטרוני ומתנות
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://wavexpress-6f4b694c.zappy5.app/sitemap.xml
-- **Robots.txt**: https://wavexpress-6f4b694c.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
