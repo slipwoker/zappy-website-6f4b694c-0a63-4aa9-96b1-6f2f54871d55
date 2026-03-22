@@ -1088,6 +1088,8 @@ body.accessibility-widget-visible ._access-menu {
 .product-gallery-thumbs { display: flex; gap: 12px; margin-top: 16px; flex-wrap: wrap; }
 .product-gallery-thumb { width: 80px; height: 80px; object-fit: cover; border-radius: 8px; border: 2px solid transparent; cursor: pointer; transition: border-color 0.2s; }
 .product-gallery-thumb:hover, .product-gallery-thumb.active { border-color: var(--primary-color, #ff0083); }
+.product-video-thumb { width: 80px; height: 80px; border-radius: 8px; border: 2px solid transparent; overflow: hidden; flex-shrink: 0; background: #1a1a2e; }
+.product-video-thumb:hover { border-color: var(--primary-color, #ff0083); }
 .product-info { display: flex; flex-direction: column; gap: 20px; }
 .product-info .product-brand { font-size: 0.875rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-secondary, #6b7280); margin-top: -12px; }
 .product-info h1 { font-size: 2rem; color: var(--text-color, #1f2937); margin: 0; line-height: 1.2; }
